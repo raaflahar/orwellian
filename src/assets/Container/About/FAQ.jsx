@@ -18,7 +18,7 @@ export default function FAQ() {
           <div id="question" className="flex justify-center mx-4 my-4">
             <div id="img">
               <img
-                src="src\assets\img\face-picture-removebg-preview.png"
+                src="https://github.com/raaflahar/orwellian/blob/master/src/assets/img/face-picture-removebg-preview.png?raw=true"
                 alt="Faces"
                 className="w-[150px] rounded-full mx-4 border-2 border-burnt-orange shadow-lg"
               />
@@ -39,7 +39,7 @@ export default function FAQ() {
           <div id="question" className="flex justify-center mx-4 my-4">
             <div id="img">
               <img
-                src="src\assets\img\face-picture-removebg-preview.png"
+                src="https://github.com/raaflahar/orwellian/blob/master/src/assets/img/face-picture-removebg-preview.png?raw=true"
                 alt="Faces"
                 className="w-[150px] rounded-full mx-4 border-2 border-burnt-orange shadow-lg"
               />
@@ -59,7 +59,7 @@ export default function FAQ() {
           <div id="question" className="flex justify-center mx-4 my-4">
             <div id="img">
               <img
-                src="src\assets\img\face-picture-removebg-preview.png"
+                src="https://github.com/raaflahar/orwellian/blob/master/src/assets/img/face-picture-removebg-preview.png?raw=true"
                 alt="Faces"
                 className="w-[150px] rounded-full mx-4 border-2 border-burnt-orange shadow-lg"
               />
