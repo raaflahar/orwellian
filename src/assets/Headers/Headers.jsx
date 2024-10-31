@@ -20,19 +20,19 @@ export default function Headers() {
             className="font-semibold text-base text-soft-ivory md:text-md xs:text-sm"
           >
             <a
-              href="/"
+              href="#"
               className="px-2 hover:text-gold transition duration-300 ease-in-out "
             >
               Home
             </a>
             <a
-              href="/shop"
+              href="#shop"
               className="px-2 hover:text-gold transition duration-300 ease-in-out"
             >
               Shop
             </a>
             <a
-              href="/about"
+              href="#about"
               className="px-2 hover:text-gold transition duration-300 ease-in-out"
             >
               About
